@@ -9,5 +9,5 @@ Note that the construction also makes sense if P is outside the triangle (consid
 
 ToDo
 ====
-* The code is ugly but it does that it should. I guess I could clean it up a bit.
+* The code is ugly but it does what it should. I guess I could clean it up a bit.
 * The construction actually works for N-gones: the Nth inscribed N-gone should be similar to the original one. I don't know if the N-gone need to be convex. I'd like to extend the code to consider polygons of any number of sides. 
